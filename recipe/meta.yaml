@@ -21,7 +21,7 @@ requirements:
     - python >=3.8
   run:
     - python >=3.8
-    - semi-ate-common =={{ version }}
+    - semi-ate-common
 
 test:
   imports:
