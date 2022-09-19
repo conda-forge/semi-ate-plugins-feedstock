@@ -1,5 +1,5 @@
 {% set name = "Semi-ATE-Plugins" %}
-{% set version = "1.0.11" %}
+{% set version = "1.0.12" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/semi-ate-plugins-{{ version }}.tar.gz
-  sha256: cba83fa8f99210bf5780673cfed3da5e7ef646e1f6a1c3615d21c88164743c87
+  sha256: 1b90cc3c6456f3f1fae72682a11f31d788b6fb5f6e1e15e3e1992db980c8b174
 
 build:
   number: 0
